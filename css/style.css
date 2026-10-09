@@ -14,7 +14,9 @@
   --text-color: #2b2d42;
   --white: #ffffff;
 }
-
+header{
+  background-color:url('/image/green.webp');
+}
 *{
   box-sizing: border-box;
   margin: 0;
