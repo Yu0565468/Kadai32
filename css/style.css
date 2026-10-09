@@ -15,7 +15,7 @@
   --white: #ffffff;
 }
 header{
-  background-color:url('/image/green.webp');
+  background-color:url('./image/green.webp');
 }
 *{
   box-sizing: border-box;
